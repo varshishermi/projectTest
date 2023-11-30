@@ -1,0 +1,163 @@
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card {
+    margin-bottom: 15%;
+    border:1px solid black;
+}
+
+.card-text {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 5px;
+    font-size: 12px;
+}
+.card-title {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.card-footer {
+    text-align: left;
+}
+
+#heartIcon {
+    font-size: 14pt;
+    margin-left: 5%;
+}
+
+.userImg {
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 100px;
+    border: 1px solid black;
+    align-items: left;
+    margin: 12px;
+}
+
+.userName {
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.card-design{
+    border-radius: 20px;
+}
+
+.name-part{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.time-part{
+    font-size:12px;
+    padding-top:4px;
+    padding-left:15px;
+}
+
+.location{
+    text-align: center;;
+}
+
+.card-footer-adj{
+    border-bottom-left-radius: 22px!important;
+    border-bottom-right-radius: 22px!important;
+}
+
+.title-txt{
+    margin-left:25px;
+}
+
+.main-price{
+    font-size: 25px;
+    padding-right: 0px;
+}
+
+.content-loc{
+    
+}
+
+.org-price{
+    /* position: relative;   */
+}
+
+.org-price-content{
+    text-decoration: line-through;
+    font-weight: lighter;
+    color:gray;
+    font-size: 15px;
+    /* position: absolute; */
+    bottom: 0;
+    /* right: 0; */
+}
+
+.org-price-content1{
+    /* text-decoration: line-through; */
+    /* font-weight: lighter; */
+    color:white;
+    font-size: 15px;
+    /* position: absolute; */
+    bottom: 0;
+    /* right: 0; */
+}
+
+
+.discount-box{
+    margin-top:5px;
+    padding:10%;
+    font-size: 12px;
+    /* border:1px solid black; */
+    border-radius: 25px;
+    font-weight: bold;
+    color: black;
+    background-color: #7fda69;
+}
+
+.blank-box{
+    color:white;
+    background-color: white;
+    padding:10%;
+    margin-top:5px;
+    font-size: 12px;
+}
+
+.image-box{
+    padding:10px;
+    border-radius: 25px;
+    /* border:1px solid black; */
+}
+
+.fxd-prc{
+    border-radius: 25px;
+    background-color: red;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ngo-prc{
+    border-radius: 25px;
+    background-color: red;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.for-center{
+    text-align: center;
+    margin: 0 auto;
+}

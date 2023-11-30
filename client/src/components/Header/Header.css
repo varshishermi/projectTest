@@ -1,0 +1,184 @@
+.dropdown-item svg {
+    margin-bottom: 2px;
+    margin-right: 7px;
+}
+
+.dropdown-item.chat-gpt-link .chatgpt-icon img {
+  height: 25px; /* Or any size that fits well */
+  width: auto;
+  margin-right: 7px;
+  vertical-align: middle;
+}
+
+
+.usernamecover{
+    padding:4px;
+    border-radius: 50px;
+    background: #f8f9fa;
+    border-style: solid;
+    border-color: black;
+}
+
+.messages{
+    padding-top:6px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:5px;
+    border-radius: 50px;
+    background: #f8f9fa;
+    border-style: solid;
+    border-color: black;
+}
+
+.message{
+    color:black;
+}
+
+.msg-icon{
+    fill:black;
+}
+
+.username{
+    /* border-radius: 50px;
+    background: #73AD21;
+    border-style: solid;
+    border-color: coral; */
+    color:black
+}
+
+#addButton svg {
+    margin-bottom: -5px;
+    margin-right: -3px;
+    font-size: 30pt;
+    color: #f8f9fa;
+}
+
+#chat-gpt-icon img {
+  height: 30px; /* Adjust the size as necessary */
+  width: auto;
+  margin-right: 10px; /* Spacing to the right */
+  vertical-align: middle; /* Aligns the image vertically */
+}
+
+
+#logoutButton svg {
+    background-color: #f8f9fa;
+}
+
+#nav-sign-up {
+    padding: 10px;
+}
+
+#addButton {
+    padding: 10px;
+}
+
+.add-item.active, .add-item:focus, .add-item.active svg {
+    border-radius: 50px;
+    color: #f8f9fa;
+    background-color: #AAB7B8;
+}
+
+.navbar-nav .dropdown {
+    top: 3px;
+}
+
+.chatgpt-icon-wrapper {
+  padding-top:1px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:4px;
+  border-radius: 50px;
+  background: #f8f9fa;
+  border-style: solid;
+  border-color: black;
+}
+
+.chatgpt-icon {
+  color:black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px; /* Example padding, adjust as needed */
+}
+
+#nav-sign-in {
+    color: white;
+    padding: 10px;
+    background: #343a40;
+    border-radius: 5px;
+}
+
+#nav-sign-in:hover{
+    /* background-color: red; */
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown-toggle svg {
+    font-size: 24pt;
+}
+
+.navbar-nav svg {
+    color: black;
+    font-size: 20pt;
+}
+
+#collasible-nav-dropdown svg {
+    font-size: 24pt;
+}
+
+.dropleft .dropdown-toggle::before {
+    display: none;
+}
+
+.navbar-brand a {
+    font-family: serif;
+    font-style: italic;
+    font-size: 20pt;
+}
+
+.dropdown-item{
+    padding:5px;
+}
+
+/*.dropdown-item:hover{
+    background-color: #f8f9fa;
+}*/
+
+.dropdown-item.active, .dropdown-item:focus, .dropdown-item.active svg {
+    border-radius: 50px;
+    color: #f8f9fa;
+    background-color: #AAB7B8;
+}
+#navImg {
+
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+
+.logout{
+    padding:4px;
+    border-radius: 50px;
+    background: #f8f9fa;
+    border-style: solid;
+    border-color: black;
+}
+
+.logo-config{
+    width:250px;
+    height:80px;
+}
+
+.cnts-btn{
+    border-radius: 20px;
+}
+
+.color-nav{
+    background-color: #09624B;
+}

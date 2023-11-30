@@ -1,0 +1,132 @@
+.tab-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#heartIconDetails svg {
+    font-size: 34pt;
+    cursor: pointer;
+    margin-top: 22px;
+    color:#81002c;
+}
+
+.product-info-heading {
+    font-size: 24px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#detailsCardText {
+    margin-left: 8px;
+}
+
+#details-footer {
+    text-align: right;
+}
+
+#detailsProduct img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.tab-pane {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+.fxd-prc{
+    border-radius: 25px;
+    background-color: #fd7e14;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.ngo-prc{
+    border-radius: 25px;
+    background-color: #f9cf00;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.for-center{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.main-price{
+    font-size: 25px;
+    padding-right: 0px;
+}
+
+.org-price-content{
+    text-decoration: line-through;
+    font-weight: lighter;
+    color:gray;
+    font-size: 15px;
+    bottom: 0;
+}
+
+.discount-box1{
+    margin-top:5px;
+    /* padding:10%; */
+    font-size: 16px;
+    /* border:1px solid black; */
+    border-radius: 50px;
+    height:35px;
+    padding-left:15px;
+    padding-top:5px;
+    width:110px;
+    font-weight: bold;
+    color: black;
+    background-color: #FF5733;
+}
+
+.content-loc1{
+    margin:20px;
+    border: 2px solid black;
+    border-radius:25px;
+    padding:20px;
+}
+
+.price-point1{
+    margin-left:20px;
+    padding-top:5px;
+}
+
+.desc-box{
+    border:2px solid black;
+    border-radius:25px;
+    padding-top:10px;
+}
+
+.org-price-content-blanker{
+    /* text-decoration: line-through; */
+    /* font-weight: lighter; */
+    color:white;
+    font-size: 15px;
+    bottom: 0;
+}
+
+.discount-box1-more{
+    margin-top:5px;
+    /* padding:10%; */
+    font-size: 16px;
+    /* border:1px solid black; */
+    border-radius: 50px;
+    height:35px;
+    padding-left:15px;
+    padding-top:5px;
+    width:110px;
+    /* font-weight: bold; */
+    color: white;
+    background-color: white;   
+}

@@ -1,0 +1,16 @@
+/* client/src/components/Details/ProductDetail.css */
+.product-detail {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.product-detail img {
+    max-width: 100%;
+    height: auto;
+}
+
+.add-to-cart {
+    margin-top: 20px;
+}
