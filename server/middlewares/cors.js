@@ -1,6 +1,6 @@
 function cors(req, res, next) {
     //res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
-    res.setHeader('Access-Control-Allow-Origin', 'http://54.183.169.202:3000');
+    res.setHeader('Access-Control-Allow-Origin', 'http://54.153.59.75:3000');
     res.setHeader('Access-Control-Allow-Methods',    'OPTIONS, GET, POST, PUT, PATCH, DELETE');
   
     res.setHeader('Access-Control-Allow-Headers',  

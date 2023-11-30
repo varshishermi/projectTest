@@ -72,6 +72,6 @@ app.post('/api/chat', async (req, res) => {
 // Use the cart routes with the app
 //setupCartRoutes(app);
 
-http.listen(PORT, () => console.log(`Server is running at http://54.183.169.202:${PORT}...`));
+http.listen(PORT, () => console.log(`Server is running at http://54.153.59.75:${PORT}...`));
 // app.listen(PORT, () => console.log(`Server is listening on port ${PORT}...`));
 

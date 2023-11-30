@@ -34,7 +34,7 @@ const ProductDetail = ({ product }) => {
         console.log("USERDATA");
         console.log(userData);
         const token = userData.token;
-        axios.post('http://54.183.169.202:4000/cart/add',
+        axios.post('http://54.153.59.75:4000/cart/add',
             { productId: product._id, quantity: parseInt(quantity) },
             {withCredentials: true})
 //                       { headers: { 'Authorization': `Bearer ${token}` } })
