@@ -5,7 +5,8 @@ import { NavLink } from 'react-router-dom';
 import { BsFillPersonFill, BsFillEnvelopeFill, BsFillPlusCircleFill } from 'react-icons/bs';
 import { IoLogOut } from 'react-icons/io5'
 // import LOGO from './MPLOGO.png'
-import LOGO from './NEWLOGO.jpeg'
+//import LOGO from './NEWLOGO.jpeg'
+import LOGO from './WhatsApp Image 2023-11-16 at 18.19.37.jpeg'
 import chatGPTIcon from './chatgpt.png';
 
 import './Header.css'
